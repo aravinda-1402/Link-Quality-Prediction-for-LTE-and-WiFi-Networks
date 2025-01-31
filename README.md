@@ -1,6 +1,6 @@
 # SDN-Based Multipath Data Offloading Using Link Quality Prediction
 
-This repository implements the **LSTM-based channel quality prediction** methodology described in the paper: [SDN-Based Multipath Data Offloading Scheme Using Link Quality Prediction for LTE and WiFi Networks](https://ieeexplore.ieee.org/document/10767139). The implementation focuses on predicting channel quality using machine learning models (LSTM and BLSTM) to aid in decision-making for data offloading in heterogeneous LTE-WiFi networks.
+This repository implements the **LSTM-based channel quality prediction** methodology described in my paper: [SDN-Based Multipath Data Offloading Scheme Using Link Quality Prediction for LTE and WiFi Networks](https://ieeexplore.ieee.org/document/10767139). The implementation focuses on predicting channel quality using machine learning models (LSTM and BLSTM) to aid in decision-making for data offloading in heterogeneous LTE-WiFi networks.
 
 ---
 
